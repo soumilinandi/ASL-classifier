@@ -43,22 +43,6 @@ The core architecture involves:
 
 The model achieves a validation accuracy of approximately 74%, indicating strong potential for real-time applications in ASL interpretation.
 
-## Installation and Usage
-
-Clone this repository and install the required packages:
-
-```bash
-git clone https://github.com/soumilinandi/ASL-classifier
-cd ASL-classifier
-pip install -r requirements.txt
-```
-
-Run the main script to start the training process:
-
-```bash
-python train.py
-```
-
 ## Acknowledgments
 
 - Thanks to Google for providing the dataset on Kaggle.

@@ -5,7 +5,12 @@
 This repository contains the implementation of a deep learning model for real-time interpretation of American Sign Language (ASL) from video data using a novel architecture that combines Transformer models with TensorFlow Lite. Our system processes both spatial and temporal features of ASL gestures, focusing on accessibility enhancements for the deaf and hard-of-hearing community.
 
 ## Project Details
-
+### How to Run it (Kaggle)
+######  Since the dataset is around 40 GBs, we import the data from kaggle in a kaggle notebook and suggest the same for reproducing the code. 
+- Go to https://www.kaggle.com/ and create a new notebook.
+- In the notebook, go to Files section, and import the dl_model.ipynb notebook.
+- In the right side of the notebook, add input and serach for  ```Google - Isolated Sign Language Recognition ``` or add the dataset from [here](https://www.kaggle.com/competitions/asl-signs/data).
+- Run all cells! Done :)
 ### Authors
 
 - Kunal Thadani
